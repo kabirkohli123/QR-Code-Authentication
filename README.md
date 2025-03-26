@@ -41,10 +41,7 @@ QRCode_Dataset/
    ```bash
    pip install -r requirements.txt
    ```
-3. Run the script:
-   ```bash
-   python main.py
-   ```
+
 
 ## 🤝 Contributing
 Pull requests are welcome! Feel free to open an issue for discussions.
